@@ -1,0 +1,3 @@
+module github.com/jfrogsolutionfeat/iGReDieNTS
+
+require github.com/jfrogsolutionfeat/dog v1.0.0 // indirect
